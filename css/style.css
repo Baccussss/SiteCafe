@@ -152,6 +152,7 @@ p {
 
 .vp-content {
   max-width: 500px;
+  padding: 20px;
   padding-top: 130px;
   color: white;
   display: block;
@@ -159,7 +160,7 @@ p {
 }
 
 .vp-content h1 {
-  font-size: 45px;
+  font-size: 3rem;
 }
 
 .vp-content p {
@@ -172,7 +173,7 @@ p {
 
 .features {
   overflow: auto;
-  padding: 50px 0px 100px 0px;
+  padding: 50px 20px 100px 20px;
   text-align: center;
   background-color: rgba(238, 233, 233, 1);
 }
@@ -191,7 +192,7 @@ p {
 
 /* reservation */
 .reservation {
-  padding: 100px 0px 100px 0px;
+  padding: 100px 20px 100px 20px;
   text-align: center;
   background-color: rgba(238, 233, 233, 1);
 }
